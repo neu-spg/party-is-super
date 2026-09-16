@@ -1,4 +1,14 @@
 TODO
+<<<<<<< HEAD
 Spiele: Ana
 Trinken: 
 Snacks: 
+=======
+<<<<<<< HEAD
+Spiele: STEVE
+=======
+Spiele: Bob
+>>>>>>> d8acceb364fadfbfcf3c4c5f3d28c1c73cf28f9a
+Trinken:
+Snacks:
+>>>>>>> 3a31a41766b6c88085425ebdcb2d58c2911e0edb
